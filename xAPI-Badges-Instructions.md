@@ -2,14 +2,14 @@ Instructions for Implementations of Mozilla Open Badges and the Experience APIâ„
 =====
 1. Overview
 2. Instructions
-   A. Content
-   B. Activity Registry
-   C. Automatic Badge Issuer
-   D. Badge Registry
-   E. Personal Data Locker
+ * Content
+ * Activity Registry
+ * Automatic Badge Issuer
+ * Badge Registry
+ * Personal Data Locker
 3. Configurations
-   A. Activity and Badge Registry Mashups
-   B. Automatic Badge Issuer and Personal Data Locker Mashups
+ * Activity and Badge Registry Mashups
+ * Automatic Badge Issuer and Personal Data Locker Mashups
 
 # 1. Overview
 
@@ -33,18 +33,18 @@ This document intends to describe the common implementation of the following fra
 
 # 2. Instructions
 
-## A. Content
+## Content
 
-## B. Activity Registry
+## Activity Registry
 
-## C. Automatic Badge Issuer
+## Automatic Badge Issuer
 
-## D. Badge Registry
+## Badge Registry
 
-## E. Personal Data Locker
+## Personal Data Locker
 
 # 3. Configurations
 
-## A. Activity and Badge Registry Mashups
+## Activity and Badge Registry Mashups
 
-## B. Automatic Badge Issuer and Personal Data Locker Mashups
+## Automatic Badge Issuer and Personal Data Locker Mashups
