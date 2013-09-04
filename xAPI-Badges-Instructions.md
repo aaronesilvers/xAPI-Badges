@@ -48,3 +48,6 @@ This document intends to describe the common implementation of the following fra
 ## Activity and Badge Registry Mashups
 
 ## Automatic Badge Issuer and Personal Data Locker Mashups
+
+# 3. Induction area!!!
+<serge>I've never used Git before, so I just want to check that I've got it right </serge>
